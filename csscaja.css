@@ -10,6 +10,7 @@
     background-color: yellow;
     width: 600px;
     height: 600px;
+    border: 1.5px solid black;
 }
 #c1 {
     margin: auto;
@@ -20,6 +21,7 @@
     width: 100px;
     height: 100px;
     background-color: blue;
+    border: 30px solid white;
 }
 #c2 {
     margin: auto;
@@ -30,24 +32,28 @@
     width: 100px;
     height: 100px;
     background-color: blue;
+    border: 30px solid white;
 }
 #c3 {
     margin: auto;
-    margin-bottom: 200px;
-    margin-left: 100;
+    margin-bottom: 20px;
+    margin-left: 280px;
+    margin-top: 20px;
     float: left;
     border-radius: 50%;
     width: 80px;
     height: 80px;
     background-color: blue;
+    border: 1.5px solid black;
 }
 #c4 {
     margin: auto;
     margin-right: 170px;
     float: right;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
     border-radius: 50%;
     width: 200px;
     height: 200px;
     background-color: blue;
+    border: 5px solid red;
 }
