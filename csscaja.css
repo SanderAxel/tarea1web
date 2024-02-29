@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#caja1 {
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 50%;
+    background-color: yellow;
+    width: 600px;
+    height: 600px;
+}
+#c1 {
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 120px;
+    float: left;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#c2 {
+    margin: auto;
+    margin-top: 100px;
+    margin-right: 100px;
+    float: right;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#c3 {
+    margin: auto;
+    margin-bottom: 200px;
+    margin-left: 100;
+    float: left;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+}
+#c4 {
+    margin: auto;
+    margin-right: 170px;
+    float: right;
+    margin-bottom: 200px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
